@@ -1,0 +1,5 @@
+{
+  "origins": ["https://thanhnamnguyen.dev"],
+  "defaultCommentOrder": "newest",
+  "originsRegex": ["http://localhost:[0-9]+"]
+}
