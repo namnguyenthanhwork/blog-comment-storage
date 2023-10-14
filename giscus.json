@@ -1,5 +1,4 @@
 {
-  "origins": ["https://giscus-demo-private.vercel.app/"],
   "defaultCommentOrder": "newest",
-  "originsRegex": ["http://localhost:[0-9]+"]
+  "originsRegex": ["http://localhost:[0-9]+", "https://giscus-demo-private.vercel.app/"]
 }
