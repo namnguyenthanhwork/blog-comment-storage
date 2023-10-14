@@ -1,5 +1,5 @@
 {
-  "origins": ["https://thanhnamnguyen.dev"],
+  "origins": ["https://giscus-demo-private.vercel.app/"],
   "defaultCommentOrder": "newest",
   "originsRegex": ["http://localhost:[0-9]+"]
 }
